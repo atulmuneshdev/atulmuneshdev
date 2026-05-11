@@ -1,7 +1,7 @@
 # Hi 👋 I'm kumar Atul Munesh
 
 🚀 **React Native & MERN Stack Developer**  
-🎓 B.Tech CSE Final Year  
+🎓 B.Tech CSE 
 💻 Passionate about building scalable mobile & web applications
 
 ---
